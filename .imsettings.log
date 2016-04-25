@@ -1,0 +1,40 @@
+[ 1460341887.132698]: IMSettings-Daemon[1181]: INFO: Starting imsettings-daemon...
+[ 1460341887.132862]: IMSettings-Daemon[1181]: INFO:   [HOME=/home/auser]
+[ 1460341887.132925]: IMSettings-Daemon[1181]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1460341887.132978]: IMSettings-Daemon[1181]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1460341887.133107]: IMSettings-Daemon[1181]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1460341887.133170]: IMSettings-Daemon[1181]: INFO:   [MODULES=gsettings, xfce]
+
+imsettings information
+==========================
+XINPUTRC: /etc/X11/xinit/xinput.d//none.conf
+	  File: `/etc/X11/xinit/xinput.d//none.conf'
+	  Size: 110       	Blocks: 8          IO Block: 4096   regular file
+	Device: 803h/2051d	Inode: 408917      Links: 1
+	Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+	Access: 2016-04-09 22:49:17.913534507 -0700
+	Modify: 2012-11-22 01:46:23.000000000 -0800
+	Change: 2013-04-01 20:29:42.352758756 -0700
+	 Birth: -
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: yes
+Is Qt supported: no
+DESKTOP: xfce
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-CFFdySmepQ,guid=a69ad683b1bfec7da8f4862100000019
+GTK_IM_MODULE: 
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+[ 1460341889.142798]: IMSettings-Daemon[1181]: INFO: Attempting to switch IM to none [lang=en_US.UTF-8, update=false]
+[ 1460341889.398586]: IMSettings-Daemon[1181]: INFO:   no need to invoke any auxiliary process for none
+[ 1460341889.398743]: IMSettings-Daemon[1181]: INFO:   no need to invoke any main process for none
+[ 1460341889.423268]: IMSettings-XFCE backend[1181]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule
+[ 1460341889.427907]: IMSettings-GSettings backend[1181]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule

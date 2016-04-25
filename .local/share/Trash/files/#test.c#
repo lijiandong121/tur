@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int htoi(char *string){
+  char charp*=string;
+  char *s;
+  
+  
+  
+}
+
+int main(void){
+  
+}

@@ -1,0 +1,29 @@
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running; starting gpg-agent without ssh support
+xfdesktop[1306]: starting up
+SELinux Troubleshooter: Applet requires SELinux be enabled to run.
+** Message: applet now removed from the notification area
+** Message: applet now embedded in the notification area
+
+** (zeitgeist-datahub:1311): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/auser/code.o.(none).1769.G8OUGC: Error when getting information for file '/home/auser/code.o.(none).1769.G8OUGC': No such file or directory
+
+** (zeitgeist-datahub:1311): WARNING **: downloads-directory-provider.vala:113: Couldn't process /home/auser/kkk: Error when getting information for file '/home/auser/kkk': No such file or directory
+** Message: Got disconnected from D-Bus.  Unless this happened during session shutdown, this is probably a bad thing.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 6805 requests (6805 known processed) with 3 events remaining.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+** Message: PID 1315 (we are 1315) sent signal 15, shutting down...
+
+** (zeitgeist-datahub:1311): WARNING **: zeitgeist-datahub.vala:228: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+running 'pkill -INT ^gpg-agent$; rm -f /home/auser/.cache/gpg-agent-info'
+
+(abrt:1317): Gdk-WARNING **: abrt: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+xfce4-mixer-plugin: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+Terminal: Fatal IO error 104 (Connection reset by peer) on X server :0.0.

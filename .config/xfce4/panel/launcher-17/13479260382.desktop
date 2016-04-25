@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Emacs
+Comment=
+Icon=emacs
+Exec=emacs
+Path=
+Terminal=false
+StartupNotify=false
+

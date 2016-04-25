@@ -1,0 +1,133 @@
+/usr/bin/startxfce4: X server already running on display :0
+ssh-agent is already running; starting gpg-agent without ssh support
+xfdesktop[1289]: starting up
+SELinux Troubleshooter: Applet requires SELinux be enabled to run.
+** Message: applet now removed from the notification area
+** Message: applet now embedded in the notification area
+xscreensaver: 19:46:57: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:47:01: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:47:05: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:47:05: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:48:09: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:48:13: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:48:17: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:48:17: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:49:21: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:49:25: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:49:29: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:49:29: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:50:33: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:50:37: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:50:41: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:50:41: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:51:45: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:51:49: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:51:54: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:51:54: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:52:58: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:53:02: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:53:06: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:53:06: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:54:10: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:54:14: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:54:18: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:54:18: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:55:22: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:55:26: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:55:30: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:55:30: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:56:34: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:56:38: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:56:42: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:56:42: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:57:46: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:57:50: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:57:54: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:57:54: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 19:58:58: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:59:02: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 19:59:06: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 19:59:06: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:00:10: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:00:15: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:00:19: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:00:19: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:04:16: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:04:20: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:04:24: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:04:24: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:05:28: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:05:32: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:05:36: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:05:36: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:06:40: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:06:44: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:06:48: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:06:48: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:07:53: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:07:57: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:08:01: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:08:01: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:09:05: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:09:09: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:09:13: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:09:13: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:10:17: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:10:21: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:10:25: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:10:25: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:11:29: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:11:33: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:11:37: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:11:37: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:12:41: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:12:45: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:12:49: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:12:49: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:13:53: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:13:57: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:14:01: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:14:01: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:15:05: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:15:09: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:15:13: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:15:13: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:16:17: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:16:21: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:16:25: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:16:25: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:17:29: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:17:33: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:17:37: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:17:37: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:18:41: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:18:45: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:18:49: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:18:49: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:19:53: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:19:57: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:20:01: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:20:01: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:21:05: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:21:09: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:21:13: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:21:13: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:22:18: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:22:22: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:22:26: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:22:26: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:23:30: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:23:34: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:23:38: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:23:38: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:24:42: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:24:46: couldn't grab keyboard!  (AlreadyGrabbed)
+xscreensaver: 20:24:50: couldn't grab pointer!  (AlreadyGrabbed)
+xscreensaver: 20:24:50: unable to grab keyboard or mouse!  Blanking aborted.
+xscreensaver: 20:47:44: authentication via PAM timed out.
+thunar-volman: Unsupported USB device type.
+thunar-volman: Unsupported USB device type.
+thunar-volman: Unsupported USB device type.
+thunar-volman: Unsupported USB device type.
+thunar-volman: Unsupported USB device type.
+thunar-volman: Unsupported USB device type.
